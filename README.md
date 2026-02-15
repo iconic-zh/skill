@@ -1,6 +1,6 @@
 # script-shot-prompter
 
-这个仓库用于存放基于 Trae 的自定义技能，目前包含一个将剧本文本转换为「连贯镜头提示词」的技能：`script-shot-prompter`。
+这个仓库用于存放一个将剧本文本转换为「连贯镜头提示词」的技能：`script-shot-prompter`。
 
 ## 仓库结构
 
